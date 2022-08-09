@@ -12,11 +12,7 @@ Installation not required as this is a webpage.
 
 ## Usage
 
-This webpage provides a rudimentary explanation of the topics covered in the Prework lessons. Those include:
-    HTML
-    CSS
-    JavaScript
-    GitHub
+This webpage provides a rudimentary explanation of the topics covered in the Prework lessons. Those include: HTML, CSS, JavaScript,and GitHub.
 
 ## Credits
 
